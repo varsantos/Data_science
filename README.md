@@ -1,23 +1,27 @@
-# Data_science
+# Olá, sou Vagner!
 
-Sou Vagner, formado em Análise e Desenvolvimento de Sistemas, apaixonado por dados e com vasta experiência em análise financeira, automação e melhoria de processos e sistemas
+Sou formado em **Análise e Desenvolvimento de Sistemas**, apaixonado por dados e com vasta experiência em **análise financeira**, **automação** e **melhoria de processos e sistemas**. 
 
-Este repositório visa mostrar minhas habilidades com modelos de machine learning, conforme vou progredindo meu aprendizado eu vou inserindo novos projetos.
+Este repositório tem como objetivo apresentar minhas habilidades com **modelos de machine learning** e outras técnicas que venho aperfeiçoando ao longo do meu aprendizado. À medida que avanço, novos projetos serão adicionados para mostrar meu progresso.
 
-Aqui você vai encontrar minhas habilidades: 
-Python
-SQL
-ETL
-  Pandas
-  Numpy
-  Scipy
-EDA
-  ydata profiling
-  Matplotlib
-  Seaborn
-  Ploty
-Machine Learning
-  scikit-learn
-  
+## Minhas Habilidades:
+- **Python**
+- **SQL**
+- **ETL**
+- **Pandas**
+- **Numpy**
+- **Scipy**
+- **EDA (Exploratory Data Analysis)**
+- **ydata_profiling**
+- **Matplotlib**
+- **Seaborn**
+- **Plotly**
+- **Machine Learning**
+- **scikit-learn**
 
-  Tenho bem claro metas para aprender TensorFlow, Spark 
+## Próximas Metas:
+- **TensorFlow**
+- **Spark**
+
+Sinta-se à vontade para explorar meus projetos e acompanhar minha jornada de aprendizado!
+
